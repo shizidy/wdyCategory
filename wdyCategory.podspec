@@ -8,7 +8,7 @@ s.description  = <<-DESC
 A tool for category 
 DESC
 s.source      = { :git => 'https://github.com/shizidy/wdyCategory.git',
-:tag => 1.0.0 }
+:tag => 'v1.0.0' }
 s.license     = 'MIT'
 
 s.platform = :ios, '8.0'
